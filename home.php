@@ -53,7 +53,7 @@
 			<div class="progress">
 				<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 40%;"></div>
 			</div>
-			<p>Proximty Target <span class="glyphicon glyphicon-info-sign"></span>
+			<p>Proximity Target <span class="glyphicon glyphicon-info-sign"></span>
 			</p>
 			<div class="progress">
 				<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 40%;"></div>
