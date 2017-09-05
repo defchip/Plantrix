@@ -1,0 +1,20 @@
+body {
+    padding-top: 70px;
+}
+h1 {
+	font-family: helvetica;
+}
+p {
+    font-family: helvetica;
+}
+.logoFont {
+    font-family: 'Coda';
+	font-size: 22px;
+}
+.jumbotron {
+	background-color: rgba(220, 220, 220, 0.5);
+}
+a.menu-item-lrg{
+	font-weight: bold;
+	color: red;
+}
